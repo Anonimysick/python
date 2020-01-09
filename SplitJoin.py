@@ -1,5 +1,5 @@
 strName = input().split(" ")
 print(strName)
 for i in strName:
-	if(i == ' ' ):
+	if i == ' ':
 		print ("ss")
