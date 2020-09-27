@@ -4,7 +4,6 @@ unitFrom = strName[1]
 unitTo = strName[3]
 
 
-
 def func(num, unitf, unitt):
     # print(num,unitf,unitt)
     result = 0
